@@ -1,0 +1,14 @@
+{"incidents":
+[
+
+],
+"_comment": ["To add an incident, use the format below. If endTime is null, it treats the incident as happening right now.",
+  {
+    "id": 3,
+    "title": "Service Outage",
+    "description": "Service is completely down.",
+    "status": "Ongoing",
+    "startTime": "2025-01-19T08:00:00Z",
+    "endTime": null
+  }]
+}
