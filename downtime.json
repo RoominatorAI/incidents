@@ -1,6 +1,13 @@
 {"incidents":
 [
-
+  {
+    "id": 1,
+    "title": "Fake Outage",
+    "description": "Service is completely up.",
+    "status": "Ongoing",
+    "startTime": "2025-01-19T08:00:00Z",
+    "endTime": null
+  }
 ],
 "_comment": ["To add an incident, use the format below. If endTime is null, it treats the incident as happening right now.",
   {
