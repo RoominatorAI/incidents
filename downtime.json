@@ -4,9 +4,9 @@
     "id": 1,
     "title": "Service Outage",
     "description": "Service is completely down due to some upgrades.",
-    "status": "Ongoing",
+    "status": "Ended",
     "startTime": "2025-02-07T10:20:00Z",
-    "endTime": null
+    "endTime": "2025-02-08T12:10:00Z"
   }
 ],
 "_comment": ["To add an incident, use the format below. If endTime is null, it treats the incident as happening right now.",
